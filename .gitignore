@@ -1,0 +1,16 @@
+# API Keys and Secrets
+.env
+keys.json
+
+# Python Virtual Environments
+.venv/
+env/
+__pycache__/
+
+# Vector Databases / Large Data Indexes (Adjust based on what you use)
+chroma_db/
+.chroma/
+faiss_index/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
